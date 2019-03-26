@@ -227,7 +227,7 @@ input[type=submit] {
 
 @media screen and (max-width: 768px) {
   .wrapper {
-    width: 600px;
+    width: 640px;
   }
 }
 
@@ -245,6 +245,10 @@ input[type=submit] {
     float: none;
     margin: 5px auto;
     text-align: center;
+  }
+
+  .auth-image, .work {
+    width: 100%;
   }
 
 }
